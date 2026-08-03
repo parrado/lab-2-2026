@@ -12,6 +12,10 @@ Esta práctica de laboratorio busca retomar aquellos conocimientos y habilidades
 
 En ese sentido, la práctica de laboratorio contempla el repaso de estructuras de programación tales como: declaración de variables, sentencias condicionales, sentencias para ciclos, arreglos y funciones. Todo lo anterior en el contexto del laboratorio remoto virtual propuesto para el proyecto final, en particular para esta práctica de laboratorio se considerará un divisor de tensión resistivo como el mostrado en la figura [[1]](#1).
 
+<p align="center">
+<img  src="https://en.wikipedia.org/wiki/Voltage_divider#/media/File:Resistive_divider2.svg" width="800" >
+</p>
+
 Para empezar, se requiere un fragmento de código en Python que permita calcular la corriente de un divisor de tensión resistivo  .  Para esto, solicite a una herramienta de IA (Inteligencia Artificial) generativa (ChatGPT, DeepSeek, Gemini, Claude) que genere el código de una función que realice esta tarea. Analice el código generado y verifique que la función realiza la tarea correctamente para diferentes valores de voltaje de entrada y de resistencias.
 
 ## Sentencias Condicionales
