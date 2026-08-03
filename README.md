@@ -40,7 +40,7 @@ En esta sección se considerarán las sentencias para ciclos y el uso de arreglo
 
 En esta sección pondrá en práctica la creación de funciones en el lenguaje de programación Python. Recuerde que las funciones son construcciones que permiten crear código modular, escalable y de mayor legibilidad.
 
-1. Cree una función que reciba como argumentos $V_{in}$, $I$ y $V_out$.  La función debe calcular y retornar en una lista los valores de $R_1$ y $R_2$ junto con sus valores nominales de potencia. 
+1. Cree una función que reciba como argumentos $V_{in}$, $I$ y $V_{out}$.  La función debe calcular y retornar en una lista los valores de $R_1$ y $R_2$ junto con sus valores nominales de potencia. 
 
 ## PySpice
 
