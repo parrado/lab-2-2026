@@ -12,7 +12,7 @@ Esta práctica de laboratorio busca retomar aquellos conocimientos y habilidades
 
 En ese sentido, la práctica de laboratorio contempla el repaso de estructuras de programación tales como: declaración de variables, sentencias condicionales, sentencias para ciclos, arreglos y funciones. Todo lo anterior en el contexto del laboratorio remoto virtual propuesto para el proyecto final.
 
-Para empezar, se requiere un fragmento de código en Python que permita calcular la corriente de un divisor de tensión  [[1]](#1).  Para esto, solicite a una herramienta de IA (Inteligencia Artificial) generativa (ChatGPT, DeepSeek, Gemini, Claude) que genere el código de una función que realice esta tarea. Analice el código generado y verifique que la función realiza la tarea correctamente para diferentes valores de voltaje de entrada y de resistencias.
+Para empezar, se requiere un fragmento de código en Python que permita calcular la corriente de un divisor de tensión resistivo  [[1]](#1).  Para esto, solicite a una herramienta de IA (Inteligencia Artificial) generativa (ChatGPT, DeepSeek, Gemini, Claude) que genere el código de una función que realice esta tarea. Analice el código generado y verifique que la función realiza la tarea correctamente para diferentes valores de voltaje de entrada y de resistencias.
 
 ## Sentencias Condicionales
 
@@ -25,9 +25,9 @@ En esta sección repasará y pondrá en práctica de nuevo las sentencias condic
 
 ## Ciclos y Arreglos
 
-En esta sección se considerarán las sentencias para ciclos y el uso de arreglos en el lenguaje de programación Python. Para esto, considere el programa de la sección anterior.
+En esta sección se considerarán las sentencias para ciclos y el uso de arreglos en el lenguaje de programación Python. Para esto, considere el programa de la sección anterior, donde el voltaje de entrada y la corriente son fijos e iguales a 5v y 100uA respectivamente.
 
-1.	Cree un nuevo programa a partir del programa de la sección anterior que solicite al usuario el nombre del jugador y un número de lanzamientos. Posteriormente, realice el número de lanzamientos indicado por el usuario,  los cuales deben ser almacenado en una lista. 
+1.	Cree un nuevo programa que solicite al usuario el número de cálculos. Posteriormente, solicite el valor de R1 para cada cálculo y obtenga el voltaje de salida del divisor de voltaje, los voltajes calculados los cuales deben ser almacenado en una lista. 
 2.	Modifique el programa del punto anterior para que se calcule e imprima el porcentaje de lanzamientos que se encuentran en cada una de las siguientes categorías: “presadas”, “5-6” y “pate-perro” (1-2).
 3.	Ahora use la herramienta IA para generar el código del punto anterior, verifique el correcto funcionamiento del programa generado y compare con la implementación realizada por usted.
 
