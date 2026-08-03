@@ -12,15 +12,15 @@ Esta práctica de laboratorio busca retomar aquellos conocimientos y habilidades
 
 En ese sentido, la práctica de laboratorio contempla el repaso de estructuras de programación tales como: declaración de variables, sentencias condicionales, sentencias para ciclos, arreglos y funciones. Todo lo anterior en el contexto del laboratorio remoto virtual propuesto para el proyecto final.
 
-Para empezar, se requiere un fragmento de código en Python que permita calcular el voltaje de salida de un divisor de tensión  [[1]](#1).  Para esto, solicite a una herramienta de IA (Inteligencia Artificial) generativa (ChatGPT, DeepSeek, Gemini, Claude) que genere el código de una función que realice esta tarea. Analice el código generado y verifique que la función realiza la tarea correctamente.
+Para empezar, se requiere un fragmento de código en Python que permita calcular la corriente de un divisor de tensión  [[1]](#1).  Para esto, solicite a una herramienta de IA (Inteligencia Artificial) generativa (ChatGPT, DeepSeek, Gemini, Claude) que genere el código de una función que realice esta tarea. Analice el código generado y verifique que la función realiza la tarea correctamente para diferentes valores de voltaje de entrada y de resistencias.
 
 ## Sentencias Condicionales
 
 En esta sección repasará y pondrá en práctica de nuevo las sentencias condicionales del lenguaje de programación Python. 
 
-1. Codifique un programa que solicite el nombre del jugador y a continuación permita el lanzamiento de los dos dados, si el jugador obtiene "presadas", se debe mostrar en pantalla el mensaje "Felicitaciones {nombre} Puedes sacar una ficha", de lo contrario se debe mostar el mensaje "Turno del siguiente jugador". En este caso {nombre} es el nombre que fue introducido por el jugador.
-2.	Ejecute el programa y verifique que funciona correctamente.
-3.	Ahora use la herramienta IA para generar el código del punto 1, verifique el correcto funcionamiento del programa generado y compare con la implementación realizada por usted.
+1. Codifique un programa que solicite el voltaje de entrada, valores de las dos resistencias junto con su valor máximo de potencia (1/4W, 1/2W o 1W). A continuación, el programa deberá informar al usuario para cada resistencia si esta opera dentro del rango permitido de potencia. 
+2. Ejecute el programa y verifique que funciona correctamente.
+3. Ahora use la herramienta IA para generar el código del punto 1, verifique el correcto funcionamiento del programa generado y compare con la implementación realizada por usted.
 
 
 ## Ciclos y Arreglos
