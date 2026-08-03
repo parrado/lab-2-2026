@@ -10,9 +10,9 @@ Uniquindío <br />
 
 Esta práctica de laboratorio busca retomar aquellos conocimientos y habilidades adquiridos en el espacio académico Lógica de Programación. Para tal fin, se pondrá en práctica aspectos relacionados con la lógica para la creación de programas de computadora y su implementación en el lenguaje de programación Python.
 
-En ese sentido, la práctica de laboratorio contempla el repaso de estructuras de programación tales como: declaración de variables, sentencias condicionales, sentencias para ciclos, arreglos y funciones. Todo lo anterior en el contexto del laboratorio remoto virtual propuesto para el proyecto final.
+En ese sentido, la práctica de laboratorio contempla el repaso de estructuras de programación tales como: declaración de variables, sentencias condicionales, sentencias para ciclos, arreglos y funciones. Todo lo anterior en el contexto del laboratorio remoto virtual propuesto para el proyecto final, en particular para esta práctica de laboratorio se considerará un divisor de tensión resistivo como el mostrado en la figura [[1]](#1).
 
-Para empezar, se requiere un fragmento de código en Python que permita calcular la corriente de un divisor de tensión resistivo  [[1]](#1).  Para esto, solicite a una herramienta de IA (Inteligencia Artificial) generativa (ChatGPT, DeepSeek, Gemini, Claude) que genere el código de una función que realice esta tarea. Analice el código generado y verifique que la función realiza la tarea correctamente para diferentes valores de voltaje de entrada y de resistencias.
+Para empezar, se requiere un fragmento de código en Python que permita calcular la corriente de un divisor de tensión resistivo  .  Para esto, solicite a una herramienta de IA (Inteligencia Artificial) generativa (ChatGPT, DeepSeek, Gemini, Claude) que genere el código de una función que realice esta tarea. Analice el código generado y verifique que la función realiza la tarea correctamente para diferentes valores de voltaje de entrada y de resistencias.
 
 ## Sentencias Condicionales
 
