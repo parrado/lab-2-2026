@@ -16,7 +16,7 @@ En ese sentido, la práctica de laboratorio contempla el repaso de estructuras d
 <img  src="Resistive_divider2.png" width="400" style="background-color: white;">
 </p>
 
-Para empezar, se requiere un fragmento de código en Python que permita calcular la corriente de un divisor de tensión resistivo  .  Para esto, solicite a una herramienta de IA (Inteligencia Artificial) generativa (ChatGPT, DeepSeek, Gemini, Claude) que genere el código de una función que realice esta tarea. Analice el código generado y verifique que la función realiza la tarea correctamente para diferentes valores de voltaje de entrada y de resistencias.
+Para empezar, se requiere un fragmento de código en Python que permita calcular la corriente que circula a través del divisor de tensión resistivo.  Para esto, solicite a una herramienta de IA (Inteligencia Artificial) generativa (ChatGPT, DeepSeek, Gemini, Claude) que genere el código de una función que realice esta tarea. Analice el código generado y verifique que la función realiza la tarea correctamente para diferentes valores de voltaje de entrada (V~in) y de resistencias (R~1 y R~2).
 
 ## Sentencias Condicionales
 
