@@ -29,10 +29,10 @@ En esta sección repasará y pondrá en práctica de nuevo las sentencias condic
 
 ## Ciclos y Arreglos
 
-En esta sección se considerarán las sentencias para ciclos y el uso de arreglos en el lenguaje de programación Python. Para esto, considere el programa de la sección anterior, donde el voltaje de entrada y la corriente son fijos e iguales a 5v y 100uA respectivamente.
+En esta sección se considerarán las sentencias para ciclos y el uso de arreglos en el lenguaje de programación Python. Para esto, considere el programa de la sección anterior, donde el voltaje de entrada ($V_{in}$) y la corriente ($I$) son fijos e iguales a 5v y 100uA respectivamente.
 
 1.	Cree un nuevo programa que solicite al usuario el número de voltajtes de salida ($V_{out}$). Posteriormente, solicite cada valor de $V_{out}$ y obtenga los valores requeridos para  $R_1$ y $R_2$, asegúrese que el usuario ingrese valores válidos de voltaje ($0<V_{out}<5v$). Los valores de resistencia calculados deben ser almacenados en una lista. 
-2.	Modifique el programa del punto anterior para que se calcule e imprima los valores máximos y mínimos de $R_1$ y $R_2$.
+2.	Modifique el programa del punto anterior para que se calcule e imprima los valores máximo y mínimo de $R_1$ y $R_2$.
 3.	Ahora use la herramienta IA para generar el código del punto anterior, verifique el correcto funcionamiento del programa generado y compare con la implementación realizada por usted.
 
 
@@ -40,7 +40,12 @@ En esta sección se considerarán las sentencias para ciclos y el uso de arreglo
 
 Para terminar, en esta sección pondrá en práctica la creación de funciones en el lenguaje de programación Python. Recuerde que las funciones son construcciones que permiten crear código modular, escalable y de mayor legibilidad.
 
-1. Cree una función que reciba como argumento un número entre 2 y 12, el cual representa un valor requerido en los dos dados.  La función debe realizar lanzamientos consecutivos hasta obtener una combinación en los dados correspondiente al número del argumento, posteriormente la función debe retornar la cantidad de lanzamientos que requirió para obenter el valor solicitado.
+1. Cree una función que reciba como argumentos $V_{in}$, $I$ y $V_out$.  La función debe realizar lanzamientos consecutivos hasta obtener una combinación en los dados correspondiente al número del argumento, posteriormente la función debe retornar la cantidad de lanzamientos que requirió para obenter el valor solicitado.
+
+
+## PySpice
+
+Consultar cómo se puede crear una lista de conexiones (_netlist_) en SPICE para el divisor de voltaje  [[2]](#2). 
 
 
 ## Entrega del laboratorio
@@ -56,4 +61,8 @@ El informe de laboratorio y el enlace al repositorio de GitHub deben ser compart
 
 <a id="1">[1]</a> 
 Wikipedia la enciclopedia libre, "Voltage Divider",url=https://en.wikipedia.org/wiki/Voltage_divider.
+
+<a id="2">[2]</a> 
+Wikipedia la enciclopedia libre, "Voltage Divider",url=https://en.wikipedia.org/wiki/SPICE.
+
 
