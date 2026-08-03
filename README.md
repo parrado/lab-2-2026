@@ -38,14 +38,18 @@ En esta sección se considerarán las sentencias para ciclos y el uso de arreglo
 
 ## Funciones
 
-Para terminar, en esta sección pondrá en práctica la creación de funciones en el lenguaje de programación Python. Recuerde que las funciones son construcciones que permiten crear código modular, escalable y de mayor legibilidad.
+En esta sección pondrá en práctica la creación de funciones en el lenguaje de programación Python. Recuerde que las funciones son construcciones que permiten crear código modular, escalable y de mayor legibilidad.
 
 1. Cree una función que reciba como argumentos $V_{in}$, $I$ y $V_out$.  La función debe realizar lanzamientos consecutivos hasta obtener una combinación en los dados correspondiente al número del argumento, posteriormente la función debe retornar la cantidad de lanzamientos que requirió para obenter el valor solicitado.
 
 
 ## PySpice
 
-Consultar cómo se puede crear una lista de conexiones (_netlist_) en SPICE para el divisor de voltaje  [[2]](#2). 
+Para terminar, en esta sección tendrá el primer acercamiento con SPICE [[2]](#2), el estándar de simulación que se usará para el proyecto. En este caso se usará el programa Ngspice [[3]](#3)
+
+1. Consultar cómo se puede crear una lista de conexiones (_netlist_) en SPICE para el divisor de voltaje, simular el divisor de tensión usando Ngspice.
+2. Instalar el paquete PySpice [[3]](#3), y consultar cómo simular el divisor de voltaje.
+3. Verificar el funcionamiento del divisor de voltaje para diferentes valores de voltaje de entrada ($V_{in}$) y de resistencias ($R_1$ y $R_2$).
 
 
 ## Entrega del laboratorio
@@ -63,6 +67,15 @@ El informe de laboratorio y el enlace al repositorio de GitHub deben ser compart
 Wikipedia la enciclopedia libre, "Voltage Divider",url=https://en.wikipedia.org/wiki/Voltage_divider.
 
 <a id="2">[2]</a> 
-Wikipedia la enciclopedia libre, "Voltage Divider",url=https://en.wikipedia.org/wiki/SPICE.
+Wikipedia la enciclopedia libre, "SPICE",url=https://en.wikipedia.org/wiki/SPICE.
+
+<a id="3">[3]</a> 
+Wikipedia la enciclopedia libre, "Ngspice",url=https://en.wikipedia.org/wiki/Ngspice.
+
+
+<a id="4">[4]</a> 
+Fabrice Salvaire and contributors, "PySpice",urlhttps://github.com/PySpice-org/PySpice.
+
+
 
 
