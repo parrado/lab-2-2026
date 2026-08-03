@@ -73,7 +73,7 @@ Wikipedia la enciclopedia libre, "Ngspice",url=https://en.wikipedia.org/wiki/Ngs
 
 
 <a id="4">[4]</a> 
-Fabrice Salvaire and contributors, "PySpice",urlhttps://github.com/PySpice-org/PySpice.
+Fabrice Salvaire and contributors, "PySpice",url=https://github.com/PySpice-org/PySpice.
 
 
 
