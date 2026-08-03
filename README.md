@@ -22,7 +22,7 @@ Para empezar, se requiere un fragmento de código en Python que permita calcular
 
 En esta sección repasará y pondrá en práctica de nuevo las sentencias condicionales del lenguaje de programación Python. 
 
-1. Codifique un programa que solicite el voltaje de entrada, valores de las dos resistencias junto con su valor máximo de potencia (1/4W, 1/2W o 1W). A continuación, el programa deberá informar al usuario para cada resistencia si esta opera dentro del rango permitido de potencia. 
+1. Codifique un programa que solicite $V_{in}$ , y los valores de $R_1$ y $R_2$ junto con su valor máximo de potencia (1/4W, 1/2W o 1W). A continuación, el programa deberá informar al usuario para cada resistencia si esta opera dentro del rango permitido de potencia. 
 2. Ejecute el programa y verifique que funciona correctamente.
 3. Ahora use la herramienta IA para generar el código del punto 1, verifique el correcto funcionamiento del programa generado y compare con la implementación realizada por usted.
 
@@ -31,8 +31,8 @@ En esta sección repasará y pondrá en práctica de nuevo las sentencias condic
 
 En esta sección se considerarán las sentencias para ciclos y el uso de arreglos en el lenguaje de programación Python. Para esto, considere el programa de la sección anterior, donde el voltaje de entrada y la corriente son fijos e iguales a 5v y 100uA respectivamente.
 
-1.	Cree un nuevo programa que solicite al usuario el número de cálculos. Posteriormente, solicite el valor de R1 para cada cálculo y obtenga el voltaje de salida del divisor de voltaje, los voltajes calculados los cuales deben ser almacenado en una lista. 
-2.	Modifique el programa del punto anterior para que se calcule e imprima el porcentaje de lanzamientos que se encuentran en cada una de las siguientes categorías: “presadas”, “5-6” y “pate-perro” (1-2).
+1.	Cree un nuevo programa que solicite al usuario el número de voltajtes de salida ($V_{out}$). Posteriormente, solicite cada valor de $V_{out}$ y obtenga los valores requeridos para  $R_1$ y $R_2$, asegúrese que el usuario ingrese valores válidos de voltaje ($0<V_{out}<5v$). Los valores de resistencia calculados deben ser almacenados en una lista. 
+2.	Modifique el programa del punto anterior para que se calcule e imprima los valores máximos y mínimos de $R_1$ y $R_2$.
 3.	Ahora use la herramienta IA para generar el código del punto anterior, verifique el correcto funcionamiento del programa generado y compare con la implementación realizada por usted.
 
 
