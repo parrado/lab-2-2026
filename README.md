@@ -17,7 +17,7 @@ En ese sentido, la práctica de laboratorio contempla el repaso de estructuras d
 <div align="center">  
 <figure>
    <img  src="Resistive_divider2.png" width="400" style="background-color: white;">
-  <br>
+  
    <figcaption><em>Figura 1: Divisor de voltaje.</em></figcaption>
 </figure>
 </div>
