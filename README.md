@@ -40,14 +40,14 @@ En esta sección se considerarán las sentencias para ciclos y el uso de arreglo
 
 En esta sección pondrá en práctica la creación de funciones en el lenguaje de programación Python. Recuerde que las funciones son construcciones que permiten crear código modular, escalable y de mayor legibilidad.
 
-1. Cree una función que reciba como argumentos $V_{in}$, $I$ y $V_{out}$.  La función debe calcular y retornar en una lista los valores de $R_1$ y $R_2$ junto con sus valores nominales de potencia. 
+1. Cree una función que reciba como argumentos $V_{in}$, $I$ y $V_{out}$.  La función debe calcular y retornar en una lista los valores de $R_1$ y $R_2$ junto con los valores nominales de potencia requeridos (1/4W, 1/2W o 1W). 
 
 ## PySpice
 
 Para terminar, en esta sección tendrá el primer acercamiento con SPICE [[2]](#2), el estándar de simulación que se usará para el proyecto. En este caso se usará el programa Ngspice [[3]](#3)
 
 1. Consultar cómo se puede crear una lista de conexiones (_netlist_) en SPICE para el divisor de voltaje, simular el divisor de tensión usando Ngspice.
-2. Instalar el paquete PySpice [[3]](#3), y consultar cómo simular el divisor de voltaje.
+2. Instalar el paquete para Python PySpice [[3]](#3), y consultar cómo simular el divisor de voltaje.
 3. Verificar el funcionamiento del divisor de voltaje para diferentes valores de voltaje de entrada ($V_{in}$) y de resistencias ($R_1$ y $R_2$).
 
 
